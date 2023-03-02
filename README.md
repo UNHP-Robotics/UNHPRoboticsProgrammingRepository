@@ -10,8 +10,4 @@ This is the Offical UNHP Robotics Programming Repository where we dump all our c
 
 For example, if I was uploading the 5th version of the 2020 file, the name would be "BEST2020_5"
 
-## Other notes
-
-This only for uploading & downloading files. You can't really view/edit ROBOTC files and I don't think anyone cares enough to make an interpreter for github. Please make seperate folders for different years. Council members can change this repository as they see fit.
-
 [UNHP Robotics Beginners Guide(not done yet)](https://www.markdownguide.org/cheat-sheet/)
